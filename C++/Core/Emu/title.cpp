@@ -1,6 +1,6 @@
 #include "stdafx.h"
 #include "title.h"
-#include "rpcs3_version.h"
+#include "r.h"
 
 #include "util/sysinfo.hpp"
 
